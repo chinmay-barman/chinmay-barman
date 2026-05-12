@@ -1,84 +1,112 @@
 <h1 align="center">Hi 👋, I'm Chinmay Barman</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast</h3>
 
----
-
-<h2 align="center">👨‍💻 About Me</h2>
+<h3 align="center">
+🚀 Full Stack Enthusiast | MERN Stack Developer | Backend Focused
+</h3>
 
 <p align="center">
 🎓 3rd Year B.Tech Student <br>
 💡 Passionate about Backend Development & Problem Solving <br>
-🚀 Focused on building scalable web applications <br>
-🎯 Actively seeking internship opportunities
+🌱 Currently learning Advanced MERN Stack & DSA <br>
+🎯 Looking for Summer 2026 Internship Opportunities
 </p>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
 
-<h3>🚀 MERN Stack</h3>
-<img src="https://iconic-api.onrender.com/dark/mongodb" width="42"/>
-<img src="https://iconic-api.onrender.com/dark/express" width="42"/>
-<img src="https://iconic-api.onrender.com/dark/react" width="42"/>
-<img src="https://iconic-api.onrender.com/dark/nodejs" width="42"/>
+### 🚀 MERN Stack
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 
-<h3>💻 Programming Languages</h3>
-<img src="https://iconic-api.onrender.com/dark/java" width="42"/>
-<img src="https://iconic-api.onrender.com/dark/js" width="42"/>
-<img src="https://iconic-api.onrender.com/dark/python" width="42"/>
-<img src="https://iconic-api.onrender.com/dark/c" width="42"/>
-<img src="https://iconic-api.onrender.com/dark/cpp" width="42"/>
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,javascript,python,c,cpp" />
 
-<h3>🎨 Frontend & Styling</h3>
-<img src="https://iconic-api.onrender.com/dark/html" width="42"/>
-<img src="https://iconic-api.onrender.com/dark/css" width="42"/>
-<img src="https://iconic-api.onrender.com/dark/tailwind" width="42"/>
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,vite" />
 
-<h3>🧰 Tools & Platforms</h3>
-<img src="https://iconic-api.onrender.com/dark/git" width="42"/>
-<img src="https://iconic-api.onrender.com/dark/postman" width="42"/>
-<img src="https://iconic-api.onrender.com/dark/vscode" width="42"/>
-<img src="https://iconic-api.onrender.com/dark/intellij" width="42"/>
-<img src="https://iconic-api.onrender.com/dark/linux" width="42"/>
-<img src="https://iconic-api.onrender.com/dark/mysql" width="42"/>
+### 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,postman,vscode,linux,mysql,idea,vercel" />
 
 </div>
 
 ---
 
-<h2 align="center">📊 Coding Stats</h2>
+<h2 align="center">📊 Coding Profiles</h2>
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/chinmay-barman?theme=dark&font=Aleo&ext=heatmap" />
+
+</div>
+
+---
+
+<h2 align="center">🏆 LeetCode Badges</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/chinmay-barman?theme=dark&font=Aleo&ext=heatmap"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=chinmay-barman&theme=dark&border=border&animated=false" />
 </p>
 
 ---
 
-<h2 align="center">🔥 GitHub Activity</h2>
+<h2 align="center">🔥 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=chinmay-barman&theme=merko&border_radius=6" height="220"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chinmay-barman&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay-barman&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=chinmay-barman&theme=tokyonight&hide_border=true"/>
+
 </div>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmay-barman&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">🚀 Current Goals</h2>
+
+<p align="center">
+✅ Master MERN Stack Development <br>
+✅ Strengthen DSA & Problem Solving <br>
+✅ Build Real-World Scalable Projects <br>
+✅ Improve Backend & System Design Skills <br>
+✅ Secure a Top Internship Opportunity
+</p>
 
 ---
 
 <h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
-  <a href="mailto:chinmaybarman0003@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42"/>
-  </a>
-  <a href="https://www.linkedin.com/in/chinmaybarman/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42"/>
-  </a>
-  <a href="https://www.instagram.com/chinu_0003_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42"/>
-  </a>
-  <a href="https://wa.me/918293566288" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42"/>
-  </a>
+
+<a href="mailto:chinmaybarman0003@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chinmaybarman/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+<a href="https://www.instagram.com/chinu_0003_/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="48"/>
+</a>
+
 </div>
 
 ---
+
+<h3 align="center">
+⭐ “Consistency beats talent when talent doesn’t work consistently.”
+</h3>
