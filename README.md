@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Chinmay Barman</h1>
 
 <h3 align="center">
-🚀 Full Stack Enthusiast | MERN Stack Developer | Backend Focused
+🚀 MERN Stack Developer | Backend Focused | GenAI Enthusiast
 </h3>
 
 <p align="center">
-🎓 3rd Year B.Tech Student <br>
+🎓 Final Year B.Tech Student <br>
 💡 Passionate about Backend Development & Problem Solving <br>
-🌱 Currently learning Advanced MERN Stack & DSA <br>
-🎯 Looking for Summer 2026 Internship Opportunities
+🌱 Continuously strengthening Development skills & DSA Problem Solving ability<br>
+🎯 Looking for Internship/Job Opportunities
 </p>
 
 ---
@@ -78,11 +78,11 @@
 <h2 align="center">🚀 Current Goals</h2>
 
 <p align="center">
-✅ Master MERN Stack Development <br>
-✅ Strengthen DSA & Problem Solving <br>
-✅ Build Real-World Scalable Projects <br>
-✅ Improve Backend & System Design Skills <br>
-✅ Secure a Top Internship Opportunity
+🔥 Become a Full-Stack Developer <br>
+🧠 Master DSA & Problem Solving <br>
+🚀 Contribute to Open Source & Build Real-World Projects <br>
+🤖 Learn Generative AI & AI Engineering <br>
+💼 Land a Great Software Engineering Internship
 </p>
 
 ---
